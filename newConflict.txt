@@ -1,1 +1,2 @@
 Zmiana z lokalnego repo
+Zmiana z zdalnego repo
